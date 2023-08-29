@@ -53,14 +53,77 @@
   </style><a name="ff"></a>
   <div id="main"></div>
   <div id="text">
-    <h1>Welcome...</h1>
-    ...To <b>Total Fur Fighters</b>, the largest and longest running fansite dedicated to the amazing video game
-    franchise known as <b>Fur Fighters</b>. If you're a fan of this brilliant yet hugely underrated game in any way,
-    feel free to look around - You may find out some information you didn't know about before.
-    <h1>Latest Update:7th March 2022</h1>
-    I'm still around! The site is in need of an update, however.
+    <h1>Debug Menu</h1>
+    This page will show you how to access the debug menu on Fur Fighters and Fur Fighters: Viggo's Revenge. Special
+    shoutout to Youtuber Resolute for showing me this trick!<br /> It uses the same method on both versions, but has an
+    extra advantage for those using the Dreamcast version on an emulator - it can break the black screen
+    errors!<br /><br />
 
-    <br /><br /><br /><br /><br /><br /><br />
+    Problem? <a href="#Trouble">Click here to scroll straight to the Troubleshoot area</a>
+
+
+    <br /><br />
+    <img src="img/step-1debug.jpg" title="Debug Menu" alt="Debug Menu" width="350"><br />
+    <b>Step 1</b><br />
+    Open both programs. In Cheat Engine, click the little computer icon near the top left and select either nullDC or
+    PCSX2 from the drop down menu.
+    <br /><br />
+
+    <b>Step 2</b><br />
+    Load your game. Open any game file or start a new one, it won't matter. It also doesn't matter if the screen goes
+    black on Dreamcast, we can access it here anyway.
+    <br /><br />
+
+    <img src="img/step-2debug.jpg" title="Debug Menu" alt="Debug Menu" width="350"><br />
+    <b>Step 3</b><br />
+    On Cheat Engine, change the 'Value' to 0 and click 'First Scan'.
+    <br /><br />
+    <img src="img/step-3debug.jpg" title="Debug Menu" alt="Debug Menu"><br />
+    <b>Step 4</b><br />
+    Pause the game. Return to Cheat Engine and input the Value as 1, then click 'Next Scan'.
+    <br /><br />
+
+    <b>Step 5</b><br />
+    Unpause the game. Return to Cheat Engine and input the Value as 0, then click 'Next Scan'.
+    <br /><br />
+
+    <img src="img/step-4debug.jpg" title="Debug Menu" alt="Debug Menu"><br />
+    <b>Step 6</b><br />
+    Repeat steps 4 and 5 until you get a very short list (usually less than 10 addresses). Unpause the game if paused.
+    Double click the first one on the list, and change the value at the bottom to '2'. Click okay.
+    <br /><br />
+
+    <img src="img/step-5debug.jpg" title="Debug Menu" alt="Debug Menu"><br />
+    <b>Step 7</b><br />
+    Is the game paused without you pressing anything? If so, you've found the code! If not, try the next code down. You
+    can delete the one you tried if you want to.
+    <br /><br />
+
+    <b>Step 8</b><br />
+    Once you've got the code, you can switch it to 3 to access the debug menu and 4 to access the free camera. On the
+    Dreamcast version, switching the value to 4 just a second after you see the loading screen to the level and
+    switching it back to 0 after 4-5 seconds can prevent the black screen glitch.
+    <br /><br />
+
+    <section id="Trouble">
+      <h2>Troubleshooting</h2>
+    </section>
+    <b>Q:</b>I'm trying to bypass the black screen glitch on Dreamcast, but it doesn't work!<br />
+    <b>A:</b> It corrects the problem about 90% of the time in my experience, BUT - one easy way for it to fail is by
+    switching the value to 4 too early (either before the loading screen shows or directly after) or by switching it too
+    late (about 2-3 seconds after the loading screen disappears). It is also possible to switch the value back to 0 too
+    early as well. If the VMU is present, I recommend switching back to 0 only after your Fur Fighter image turns
+    up.<br /><br />
+    <b>Q:</b> Most of the debug options don't work.<br />
+    <b>A:</b> Some of the options have been removed for the final game. These are mostly things to do with development,
+    such as viewing the character wireframes. Most of the things that people will want to use (ie. invulnerability,
+    tokens, weapons) still work like a charm.<br /><br />
+    <b>Q:</b> The debug options aren't showing on the Dreamcast version.<br />
+    <b>A:</b> The debug options only show on certain levels for some reason. Try Fur Fighter Village, that usually
+    works.<br /><br />
+    <b>Q:</b> I can't get the numbers down enough.<br />
+    <b>A:</b> Try moving around when the game is unpaused. That usually scatters a lot of the other values around and
+    makes the list go down quicker.
 
     &nbsp;<br /><br /><br />
     <center><a href="#ff"><img src="siteimg/up-arrow.png" alt="Return to top" title="Return to top" border="0">Back to
