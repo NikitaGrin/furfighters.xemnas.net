@@ -1,0 +1,346 @@
+*
+	{
+		margin: 0;
+		padding: 0;
+	}	
+
+body 
+	{
+					padding: 0;
+		margin: 0;
+		text-align: left;
+		background: url('siteimg/bg.png') top left fixed;
+	}
+
+	
+#type 
+	{
+		position: left;
+		width: 2550px;
+		margin: 0 0 0 auto;
+		text-align: justify;
+	}
+
+
+
+
+h1 {
+		color: #000000;
+		font-size:30px;
+		font-family: arial;
+		background: url('siteimg/header.png') bottom right no-repeat;
+		width:100%;} 
+h2 {
+		color: #0000000;
+		font-size:30px;
+		background-color: #A85808;
+		background: url('siteimg/header.png') right no-repeat;
+		width:100%;
+	}
+
+h3 {
+		color: #983010;
+		font-size:17px;
+		font-family: arial;
+		background-color: #A85808;
+    		border-style: solid;
+    		border-width: 2px;
+		width:95%;
+	}
+h4 {
+		color: #983010;
+		font-size:17px;
+		font-family: arial;
+		background-color: #A85808;
+    		border-style: solid;
+    		border-width: 2px;
+		width:95%;
+	}
+
+#main	{
+		position: absolute;
+		width: 1200px;
+		height: 500px;
+		top:0;
+ 		left:220;
+		margin: 0 0 0 auto;
+		padding: 0;
+		background: url('total-fur-fighters-logo.png');
+	}
+
+
+
+
+
+#text
+	{
+		position: absolute;
+		width: 685px;
+		top:400px;
+ 		left:230px;
+		padding: 5px 5px 5px 5px;
+ 	border-style: solid;
+border-width:2px;
+	border-color: #E85C10;			font-family: Trebuchet MS;	text-align: justify;
+	background:#E08810}
+
+
+
+
+
+
+#leftnav	{
+		position: absolute;
+		width: 220px;
+		top:400px;
+	left:40;
+		text-align: justify;  auto;
+ border-style: solid;
+border-width:2px;
+	border-color: #406000;
+padding: 5px 0px 0px 5px;
+	background: url('siteimg/nav-bg.png') top left repeat;
+
+}
+
+
+
+
+
+#rightnav	{
+		position: absolute;
+		width: 269px;
+		top:400px;
+ 		left:930px;
+		padding: 5px 0 0 5px;
+			border-style: solid;
+border-width:2px;
+	border-color: #406000;	text-align: justify;
+	background: url('siteimg/nav-bg.png') top left repeat}
+
+
+
+
+
+
+#rightnavold 
+	{
+position: absolute;
+	width: 450px;
+ top:845px;
+  left:0px;
+		padding: 5px 0 0 0px;
+		text-align: justify;
+	}
+
+
+	
+	
+	}
+	
+strong 
+	
+
+p 
+	{
+		padding: 5px;
+		line-height: 13px;
+	}
+
+A:link {
+
+		text-decoration:none;
+		color:#B0CFDD;
+}
+
+A:visited {
+	  	color:#B0CFDD; 
+	   	text-decoration:none;
+		font-family:Georgia;
+	}
+
+table.gridtable {
+	font-family: sans-serif;
+	font-size:11px;
+	color:#E33331;
+	border-width: 1px;
+	width: 250px;
+	float:left;
+	border-color: #406000;
+	border-collapse: collapse;
+}
+table.gridtable th {
+	border-width: 1px;
+	font-size:21px;
+	color:#C2D90A;
+	padding: 8px;
+	font-style: italic;
+	border-style: solid;
+	border-color: #406000;
+	background-color: #A85808;
+}
+table.gridtable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	color:#ffffff;
+	border-color: #406000;
+	background-color: #A85808;
+}
+
+table.babytable {
+	font-family: sans-serif;
+	font-size:11px;
+	color:#E33331;
+	border-width: 1px;
+	width: 220px;
+	margin:4px;
+	border-color: #406000;
+	border-collapse: collapse;
+}
+table.babytable th {
+	border-width: 1px;
+	font-size:13px;
+	color:#C2D90A;
+	padding: 8px;
+	border-style: solid;
+	border-color: #406000;
+	background: #A85808 url('siteimg/baby.png');
+}
+table.babytable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	color:#ffffff;
+	border-color: #406000;
+	background-color: #A85808;
+}
+
+table.tokentable {
+	font-family: sans-serif;
+	font-size:11px;
+	color:#E33331;
+	border-width: 1px;
+	margin:4px;
+	border-color: #406000;
+	border-collapse: collapse;
+}
+table.tokentable th {
+	border-width: 1px;
+	font-size:13px;
+	color:#C2D90A;
+	padding: 8px;
+	border-style: solid;
+	border-color: #406000;
+	background: #A85808 url('siteimg/token.png');
+}
+table.tokentable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	color:#ffffff;
+	border-color: #406000;
+	background-color: #A85808;
+}
+table.timetable {
+	font-family: sans-serif;
+	font-size:11px;
+	color:#E33331;
+	border-width: 1px;
+	width: 150px;
+	margin:4px;
+	border-color: #406000;
+	border-collapse: collapse;
+}
+table.timetable th {
+	border-width: 1px;
+	font-size:13px;
+	color:#C2D90A;
+	padding: 8px;
+	border-style: solid;
+	border-color: #406000;
+	background: #A85808 url('siteimg/stopwatch.png');
+}
+table.timetable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	color:#ffffff;
+	border-color: #406000;
+	background-color: #A85808;
+}
+
+
+table.minitable {
+	font-family: sans-serif;
+	font-size:11px;
+	color:#E33331;
+	border-width: 1px;
+	width: 300px;
+	border-color: #406000;
+	border-collapse: collapse;
+	float:left;
+}
+table.minitable th {
+	border-width: 1px;
+	font-size:21px;
+	color:#DE5A0C;
+	font-style: italic;
+	padding: 8px;
+	border-style: solid;
+	border-color: #406000;
+	background-color: #A85808;
+}
+table.minitable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	color:#ffffff;
+	border-color: #406000;
+	background-color: #A85808;
+}
+
+table.leveltable td {
+	border-width: 0px;
+	padding: 8px;
+	border-style: solid;
+	color:#C2D90A;
+	border-color: #406000;
+	background-color: #A85808;
+}
+
+table.itemtable th {
+	font-family: verdana, sans-serif;
+	border-width: 0px;
+	font-size:10px;
+	color:#C2D90A;
+	padding: 4px;
+	border-style: solid;
+	background-color: #A85808;
+}
+table.itemtable td {
+	padding: 3px;
+}
+table.itemtable tr {
+	padding: 3px;
+}
+
+table.Text th {
+	font-family: verdana, sans-serif;
+	border-width: 0px;
+	font-size:10px;
+	color:#C2D90A;
+	padding: 4px;
+	border-style: solid;
+	background-color: #A85808;
+}
+table.Text td {
+	padding: 3px;
+	border-style: solid;
+	border-width: 1px;
+}
+table.Text tr {
+	padding: 3px;
+	border-style: solid;
+	border-width: 1px;
+}

@@ -1,0 +1,66 @@
+
+DIV.header {
+    background: url('header.png') left top no-repeat;
+    color: #FDC735;
+    font-size: 21pt; font-family: brady bunch; font-weight:bold;
+   text-align: left;
+    padding: 15px;
+}
+
+
+DIV.footer {
+    color: #000000;
+    font-size: 6pt; font-family: vedana;
+   text-align: left;
+    padding: 5px;
+}
+
+A:link {color:#D99B5D; font:10pt Brady Bunch Remastered, vedana;}
+A:visited {color:#D99B5D; text-decoration:none;font-family:verdana}
+A:active {color:#D99B5D; text-decoration:none;font-family:verdana}
+A:hover{color:#D99B5D;text-decoration:underline overline ; cursor:crosshair;} 
+
+h1 {
+color: #FDC735;
+font-size:12px;
+font-family: verdana;
+border: solid #FFFB1D 1px;
+}
+	
+h2 {
+color: #414C51;
+font-size:11px;
+text-align:center;
+font-family: verdana;
+border: solid gold 1px;
+}
+	
+
+body, table, tr, td, p {
+color: #000000;
+font-size:11px;
+font-family: sans-serif;}
+
+input, textarea, option, select {
+	background-color: white;
+	font: 8pt verdana;
+	color: #C59502;
+	letter-spacing: 1px;
+	border: 1px solid #68A4B9;
+ padding:2px;
+
+
+
+TABLE,TD,FONT,P,I,BODY,DIV 
+{COLOR: #B9B9B9; font-family:"verdana";}  
+BODY 
+
+.box {
+ background-color: #A32608;
+    color: #C59502;
+
+    
+text-align: center;
+   FONT-SIZE:10px;
+ width: 80%;
+} 

@@ -1,0 +1,404 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>TOTAL FUR FIGHTERS | Fur Fighters Fansite</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="final.css" />
+</head>
+<body><style type="text/css">
+::-webkit-scrollbar {
+  height: 11px;
+}
+::-webkit-scrollbar-button {
+background: url('siteimg/down.png');
+  height: 15px;
+}
+::-webkit-scrollbar-thumb {
+  background: #cf951d;
+  border: 0px solid #269812;
+  border-radius: 0px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #c48024;
+}
+::-webkit-scrollbar-thumb:active {
+  background: #dca83a;
+}
+::-webkit-scrollbar-track {
+  background: #29da32;
+  border: 0px none #ba761b;
+  border-radius: 0px;
+}
+::-webkit-scrollbar-track:hover {
+  background: #8CBD00;
+}
+::-webkit-scrollbar-track:active {
+  background: #8CBD00;
+}
+::-webkit-scrollbar-corner {
+  background: transparent;
+}
+</style><a name="ff"></a>
+<div id="main"></div>
+<div id="text"> 
+        <h1>Out of Bounds</h1>
+Now it's one thing to keep a model out of view from the player - They're likely there to save on loading times, especially when they're used within the level. But items? That's another story.<br />There's a whole load of items that are hidden from the player's view, and unobtainable through normal gameplay. These are all likely put there by mistake. But hidden Telepoints? Hidden models that don't get used anywhere in any cutscene? Well, take a look for yourself. These are primarily from <b>Fur Fighters: Viggo's Revenge</b>, but some of them can also be found in the same location in other versions of the game too (and this will be stated if so).<br /><br />
+
+<h1>Fur Fighter Village</h1>
+
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td>  <img src="img/keyitems.jpg" alt="Fur Fighter Village" title="Fur Fighter Village" border="0" width="300"></td> <td>All Key Items</td> <td>Ever wondered what would happen if you had all key items at the same time? Here's your chance! This dev square is just around the corner of Juliette's home. This same area can be seen in <a href="https://youtu.be/xpawaGRTEJM?t=496" target="_blank">Resolute's video</a> in the debug build of the PC game, though there they appear as Blue Bear heads and work in a slightly different way.</td></tr></table>
+<br /><br />
+
+<h1>New Quack City</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td>  <img src="img/randompost3.jpg" alt="New Quack City" title="New Quack City" border="0" width="300" border="0"></td> <td>Switched off Lamppost</td> <td>It's the lampost for Central Quack and World Quack, hanging in mid-air. But there's a catch - This one is not switched on. All other posts are switched on, since it's nighttime after all in New Quack. Thus making this lampost an unused item floating outside. </td>
+</tr><tr><td>  <img src="img/randompost2.jpg" alt="New Quack City" title="New Quack City" border="0" width="300"></td> <td>Lamppost</td> <td>Another lamppost floating behind the copter that takes you to Saving Gwynth. Same design as before. Also facing the wrong way as before. This (and two others just like it) can be found in all versions of the game.</td>
+</tr><tr><td>  <img src="img/nqbackalley.jpg" alt="New Quack City" title="New Quack City" border="0" width="300"></td> <td>Wooden Fence</td> <td>One of the numerous oddities in level design, this backalley, complete with wooden fence, appears behind the hub walls and can never be seen during gameplay. What's behind it? You'll have to find out for yourself... Okay, there's nothing. It just drops.</td>
+</tr>
+</table>
+<br /><br />
+
+</table>
+<br /><br />
+
+
+<h1>Lower East Quack</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td>  <img src="img/ramp.jpg" alt="Lower East Quack" title="Lower East Quack" border="0" width="300"></td> <td>Ramp</td> <td>Credit to <a href="https://www.youtube.com/user/spyke4995" target="_blank">Resolute</a> for finding the original ramp in the debug PC version! This (unused elsewhere) ramp is placed just behind Rico's Telepoint, but on this version, it's a little hard to see since it the texture is a default one which blends in with the background.</td>
+</tr><tr><td>  <img src="img/sewerbears.jpg" alt="Lower East Quack" title="Lower East Quack" border="0" width="300"></td> <td>2 x Brown Bears</td> <td>These poor unfortunate souls can be found way under the sewer, floating in mid-air. They will fall once they see you (if you can drag a Fur Fighter under there, that is - They're near the cut-off point for auto-fluff).</td>
+</tr>
+</table>
+<br /><br />
+
+<h1>New Quack Subway</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td>  <img src="img/subway-bear.jpg" alt="New Quack Subway" title=New Quack Subway" border="0" width="300"></td> <td>Brown Bear</td> <td>Yes, that's right - Even an unused level has something out of bounds. In this case, a stray Brown Bear. Because there weren't already enough of them in this level, apparently.</td>
+</tr>
+</table>
+<br /><br />
+
+
+<h1>Beaver Power</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td>  <img src="img/olb-2.jpg" alt="Beaver Power" title="Beaver Power" border="0" width="300"> </td> <td>4 x Grenades</td> <td>There's a lack of Grenades here too, with only two available for the player to grab on their way through Beaver Power. But don't worry! Four of them are just out of the player's reach in a nice little position. They look nice though, right?</td></tr>
+<tr><td>  <img src="img/olb-1.jpg" alt="Beaver Power" title="Beaver Power" border="0" width="300"> </td> <td>4 x Pet Yums Junior</td> <td>There's no Juliette Telepoint here in Viggo's Revenge, but there are... Pet Yum cans just beneath God Machine Valley's entrance. Yeah. These are also in the original game, though you can actually reach them there, so it was probably just an oversight when converting the game.</td></tr>
+</table><br /><br />
+
+<h1>Compound Factions</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td>  <img src="img/catty-bullets.jpg" alt="Compound Factions" title="Compound Factions" border="0" width="300"></td> <td>Large Bullets</td> <td>These Bullets can be found just behind Juliette's wall near the gate. In all versions.</td></tr>
+<tr><td>  <img src="img/py-compoundfactions.jpg" alt="Compound Factions" title="Compound Factions" border="0" width="300"></td> <td>2 x Pet Yums</td> <td>These two Pet Yums can be found inside a blue container in Compound Factions. In the early <a href="demos.php">demo</a>, the door to this container was slightly ajar. This was likely going to open up like the red containers, spewing out Bears. </td></tr>
+<tr><td>  <img src="img/cf-py.jpg" alt="Compound Factions" title="Compound Factions" border="0" width="300"></td> <td>Pet Yums Jr.</td> <td>This Pet Yums Junior can can be found underneath the rocky terrain near Richard's area in the Dreamcast version. There's a lot of cans in this area, it's not all that surprising that one slipped beneath the area.</td></tr>
+
+
+</table>
+<br /><br />
+<h1>Furry Forest</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td> <img src="img/oob-furryforest.jpg" alt="Furry Forest" title="Furry Forest" border="0" width="300"></td> <td>2 x Brown Bears</td><td>These two are beneath the level. Like most enemies this far down, they'll fall should they somehow see you. </td></tr>
+<tr><td> <img src="img/furryforest=pandabear.png" alt="Furry Forest" title="Furry Forest" border="0" width="300"></td> <td>1 x Panda Bear</td><td>Another bear really far under the level, just floating there.</td></tr>
+</table>
+<br /><br />
+
+<h1>God Machine Valley</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+
+<tr><td> <img src="img/oob-bearcroc.jpg" alt="God Machine Valley" title="God Machine Valley" border="0" width="300"></td> <td>2 x Peacocks</td><td>It's really hard to get a picture of these two, as they disappear when you get too close and reappear in an awkward place.</td></tr>
+<tr><td> <img src="img/oob-ran.jpg" alt="God Machine Valley" title="God Machine Valley" border="0" width="300"></td> <td>2 x Peacocks<br />3 x Crocodiles<br />2 x Brown Bears</td><td>Another shot of the above pair, plus some additional enemies, all too far under the level to see normally. Leftovers from the PC/DC versions probably, since only a single Crocodile spawns above them.</td></tr>
+<tr><td> <img src="img/oob-levelbits.jpg" alt="God Machine Valley" title="God Machine Valley" border="0" width="300"></td> <td>2 x Planes</td><td>Two small "planes", far away from the rest of the level. Your guess is as a good as mine.</td></tr>
+<tr><td> <img src="img/underthesea.png" alt="God Machine Valley" title="God Machine Valley" border="0" width="300"></td> <td>2 x Planes</td><td>The water is duplicated with a different texture far, far below the level. See those tiny red pixels at the bottom waterfall? <i>That's Rico.</i></td></tr>
+</table>
+<br /><br />
+
+<h1>Beaver Dam</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td>  <img src="img/olb-11.jpg" alt="Beaver Dam" title="Beaver Dam" border="0" width="300"></td> <td>Brown Bear</td> <td>This guy starts so far under the level it's a surprise he doesn't get automatically fluffed. Since he's actually in a water area, he rises up to just beneath the ship's pool. Still out of bounds though, so there's no way to actually meet him unless you get under here somehow.</td></tr>
+<tr><td><img src="img/olb-5.jpg" alt="Beaver Dam" title="Beaver Dam" border="0" width="300"></td> <td>Juliette Telepoint</td> <td>One of the most bizarre places to find a Juliette Telepoint, considering there's another one in the level incredibly close by. Stuck between the walls near the cement mixer in Beaver Dam, one can only wonder just why it's even there.</td></tr>
+<tr><td><img src="img/petyums-tunnel.jpg" alt="Beaver Dam" title="Beaver Dam" border="0" width="300"></td> <td>Pet Yums Jr. x 3</td> <td>Credit to Childemera for finding these! These 3 cans are placed just underneath the tunnel, so you can't grab 'em.</td></tr>
+</table>
+<br /><br />
+
+<h1>Saving Juanita</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td><img src="img/juanita.jpg" alt="Saving Juanita" title="Saving Juanita" border="0" width="300"></td> <td>1 x Jr. Pet Yums</td> <td>OF ALL THE PLACES TO HAVE AN OUT OF BOUNDS CAN. Really.</td></tr></table>
+<br /><br />
+
+
+<h1>Cape Canardo</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td>  <img src="img/olb-4.jpg" alt="Cape Canardo" title="Cape Canardo" border="0" width="300"> </td> <td>Chang Telepoint <br />& 1 Rocket</td> <td>Chang's Telepoint is placed on the ground just fine in all but Viggo's Revenge, where it has been thrust under the level like so. Fur Fighters can still see it, though, even if you can't. There's also a Rocket nearby, surrounded by invisible barriers.</td></tr>
+<tr><td>  <img src="img/capcan.jpg" alt="Cape Canardo" title="Cape Canardo" border="0" width="300"> </td> <td>2 x Rocket Box & <br />1 x Jr. Pet Yums<br /> </td> <td>Just under Jules' Telepoint is a Junior Pet Yums can and a couple of Rocket boxes. But hey! You can reach the Rocket Launcher, at least?</td>
+<tr><td>  <img src="img/window-bear.jpg" alt="Cape Canardo" title="Cape Canardo" border="0" width="300"> </td> <td>Brown Bear<br />& Crocodile</td> <td>Thanks to Childemera for finding this! When you explore enough of Cape Canardo, these two show up. But these two spawn above you, right in the glass window.</td></tr>
+</tr></table><br /><br />
+
+
+<h1>VAB Building</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td>  <img src="img/bottles.jpg" alt="VAB Building" title="VAB Building" border="0" width="300"></td> <td>Unused Bottles</td> <td>Discovered originally by Sergeant Viggo, these bottles can be found inside a building in the VAB Building in all versions of the game. You can stand on them, but that's about it.</td></tr>
+<tr><td>  <img src="img/oob-croc.jpg" alt="VAB Building" title="VAB Building" border="0" width="300"></td> <td>2 x Crocodiles</td> <td>Yep, even enemies exist outside the level boundaries, standing idly by in thin air outside the computer room in the VAB Building. What happens when you approach them? Well, the same thing that happens when cartoon characters realise they're standing on thin air - They fall. </td></tr>
+<tr><td>  <img src="img/vab-bear.jpg" alt="VAB Building" title="VAB Building" border="0" width="300"></td> <td>Brown Bear</td> <td>This bear is close to the cut-off point underneath the VAB Building. Shortly after, he will fall to his imminent doom. Meet you in The Bad Place, mate.</td></tr>
+<tr><td>  <img src="img/arma-vab-b.jpg" alt="VAB Building" title="VAB Building" border="0" width="300"></td> <td>Armadillo</td> <td>Thanks to Childemera for this one! One of the Armadillos actually spawns inside one of the tanks. You can hear him, though.</td></tr>
+</table><br /><br />
+
+<h1>VLF Facility</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td>  <img src="img/jean-oob.jpg" alt="VLF Facility" title="VLF Facility" border="0" width="300"></td> <td>Shotgun &<br /> 2 x Shotgun Cakes</td> <td>Hidden near Roofus' daughter Jean, this Shotgun & ammo combo can be found inbetween two areas, floating in nothingness.</td>
+</tr><tr><td>  <img src="img/olb-button.jpg" alt="VLF Facility" title="VLF Facility" border="0" width="300"></td> <td>Button</td> <td>This button can be found in the middle of the swampy area found in the VLF Facility. Shooting it or tapping it does nothing, however, much like the almost hidden button in the World Quack Centre (as seen in <a href="trivia.php">trivia</a>).</td></tr>
+</table><br /><br />
+
+
+<h1>Space Station Meer</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td>  <img src="img/crater-2.jpg" alt="Space Station Meer" title="Space Station Meer" border="0" width="300"></td> <td>Water Crater</td> <td>This can be found floating outside the station in Viggo's Revenge. More info over at <a href="beta.php">unused elements</a>.</td>
+</tr><tr><td>  <img src="img/intree.jpg" alt="Space Station Meer" title="Space Station Meer" border="0" width="300"></td> <td>Crocodile</td> <td>Thanks to Childemera for this one! One of the Crocodiles in the rain dome is actually stuck inside one of the trees. I'm sure there's a tree hugger joke somewhere.</td>
+</tr></table><br /><br />
+
+<h1>Dinotopolis</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td>  
+ <img src="img/olb-7.jpg" alt="Dinotopolis" title="Dinotopolis" border="0" width="300"></td> <td>3 x Shotgun Cakes</td> <td>These can be found just below the entrance to Saving Esmerelda. Kinda weird, since they're so perfectly placed in between all other areas, directly in the center.</td></tr>
+</table><br /><br />
+
+<h1>Dinos Downstairs</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td>  
+ <img src="img/olb-6.jpg" alt="Dinos Downstairs" title="Dinos Downstairs" border="0" width="300"></td> <td>Bungalow Telepoint</td> <td>Located just outside the starting point in Dinos Downstairs, near where the stove is. Probably just an easier way to get Bungalow out during the testing process, considering he's needed almost instantly in this level. There's also a default texture clone of the Dinosaur Kid, but developer stuff like that is rampant outside the level boundaries anyway.</td></tr>
+</table><br /><br />
+
+<h1>Dinos Upstairs</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td>  <img src="img/shells.jpg" alt="Dinos Upstairs' Unobtainable Shells" title="Dinos Upstairs' Unobtainable Shells" border="0" width="300"></td> <td>2 x Small Shells</td> <td>These two Shells, can be found underneath the shower in Dinos Upstairs. Along with the rest of the rather large bathroom plug. Maybe when the lava was drained they were meant to pop up? The world may never know.</td>
+</tr>
+</table><br /><br />
+
+<h1>The Rumpus Room</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td>  
+ <img src="img/olb-8.jpg" alt="The Rumpus Room" title="The Rumpus Room" border="0" width="300"></td> <td>1 Rocket</td> <td>Just under the floor near the first cabinet of The Rumpus Room, there's a lone Rocket. That's... Really all that can be said. </td></tr>
+<tr><td>   <img src="img/olb-9.jpg" alt="The Rumpus Room" title="The Rumpus Room" border="0" width="300"></td> <td>Rock</td> <td>By far one of the most bizarre items to be found outside the level. A rock. One that can be perched on, that we would see during normal gameplay, far away from the rest of the level. Bizarre Creations certainly like living up to their name.</td></tr>
+<tr><td>   <img src="img/pyrum.jpg" alt="The Rumpus Room" title="The Rumpus Room" border="0" width="300"></td> <td>Pet Yums</td> <td>This is at the side of the jukebox. Or, it should have been. It's placed just beside the wall there, so you can't actually get it.</td></tr>
+<tr><td>   <img src="img/rran.jpg" alt="The Rumpus Room" title="The Rumpus Room" border="0" width="300"></td> <td>Pet Yums Jr.<br /> & Large Bullets</td> <td>These can be found just underneath the basement floor, no doubt meant to be on that floor.</td></tr>
+<tr><td>   <img src="img/rclose.jpg" alt="The Rumpus Room" title="The Rumpus Room" border="0" width="300"></td> <td>Shotgun Barrel</td> <td>It's hard to actually see this, since it's so close to the floorboards. Even if it was actually there though, it would still be floating in the air. That Pet Yums can be seen better below.</td></tr>
+<tr><td>   <img src="img/rumppy.jpg" alt="The Rumpus Room" title="The Rumpus Room" border="0" width="300"></td> <td>Pet Yums Jr.</td> <td>Between the two stairs is a single can of Pet Yums Junior. Just above it is the laundry room (with the Washmeister), but even pushing it up would cause it to be only half in the area.</td></tr>
+<tr><td>   <img src="img/rumpusbu.jpg" alt="The Rumpus Room" title="The Rumpus Room" border="0" width="300"></td> <td>Large Bullets</td> <td>Opposite the Pet Yums can at the back of the jukebox is a large bullet pack. Like the Pet Yums, it was likely going to be obtained by going down the side. </td></tr>
+<tr><td>   <img src="img/rumpus-gr.jpg" alt="The Rumpus Room" title="The Rumpus Room" border="0" width="300"></td> <td>2 x Grenade Boxes</td> <td>Two boxes of Grenades hide under the garage in the Dreamcast game. </td></tr>
+</table><br /><br />
+
+<h1>20,000 Fluffs B.C.</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td><img src="img/thermal.jpg" alt="20,000 Fluffs B.C." title="20,000 Fluffs B.C." border="0" width="300"></td> <td>2 x Small Thermal</td> <td>These two Thermals can be found just underneath the cardboard box in 20,000 Fluffs B.C.. But there's no way to actually get in there. There is, however, a way to get in one of the other boxes, so maybe that was the plan for these too? Also, note the extra image on the side of the box, which is different to the outside.</td></tr>
+</table><br /><br />
+
+<h1>The Fluff that Time Forgot</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td><img src="img/forgotpy.jpg" alt="The Fluff that Time Forgot" title="The Fluff that Time Forgot" border="0" width="300"></td> <td>Pet Yums Junior</td> <td>Fluff isn't the only thing time forgot in this level - There's a small can of Pet Yums under the level.</td></tr>
+</table><br /><br />
+
+
+<h1>Jungle of Despair</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td>  <img src="img/jod-foli.jpg" alt="Jungle of Despair" title="Jungle of Despair" border="0" width="300"></td> <td>Foliage</td> <td>Present in all versions of the game, a bunch of foliage is placed underneath the 'teleport' temple, likely from an earlier version of the game.</td></tr>
+</table><br /><br />
+
+
+<h1>Temple of Gloom</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td>  <img src="img/olb-10.jpg" alt="Temple of Gloom" title="Temple of Gloom" border="0" width="300"></td> <td>Chameleon</td> <td>Credit to <a href="https://www.youtube.com/user/MrJum987" target="_blank">Jum</a> for pointing me in the right direction for this! This Chameleon is under the level in Viggo's Revenge, but much like the trail of Pet Yums cans in Beaver Power, it's in the right place in predecessors.</td></tr>
+<tr><td>  <img src="img/olb-3.jpg" alt="Temple of Gloom" title="Temple of Gloom" border="0" width="300"> </td> <td>Bungalow Telepoint</td> <td>Your guess is as good as mine. Bungalow's Telepoint is close enough for characters to notice something under the ground near the maze in the Temple of Gloom, even though the player can't see it.</td></tr>
+<tr><td>  <img src="img/tog-bul.jpg" alt="Temple of Gloom" title="Temple of Gloom" border="0" width="300"></td> <td>Large Bullets</td> <td>In the original games, this lone ammo is underneath the portal room.</td></tr>
+<tr><td>  <img src="img/tog-bear.jpg" alt="Temple of Gloom" title="Temple of Gloom" border="0" width="300"></td> <td>Brown Bear</td> <td>This guy is far below Bungalow's Telepoint. He's so far down that by the time he sees you, he's usually unaffected by the death pit cut off.</td></tr>
+</table><br /><br />
+
+
+<h1>The Bad Place</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td> <img src="img/plank.jpg" alt="The Bad Place" title="The Bad Place" border="0" width="300"></td> <td>Plank</td> <td>Suddenly the Ed, Edd n Eddy theory makes a little more sense. Why Plank? Why are you floating outside the start of The Bad Place?!</td></tr>
+<tr><td> <img src="img/bppe.jpg" alt="The Bad Place" title="The Bad Place" border="0" width="300"></td> <td>Pet Yums</td> <td>You know, this item would be much more helpful if it had actually been placed <i>inside</i> the platform of Bungalow's nightmare.</td></tr>
+<tr><td>   <img src="img/bungy-bp.jpg" alt="The Bad Place" title="The Bad Place" border="0" width="300"></td> <td>6 x Bullets</td> <td>Wow, Bungalow's nightmare really is a nightmare. Whilst Pet Yums are in place, all of these bullets are underneath the level in the Dreamcast version.</td></tr></table><br /><br />
+
+
+<h1>Raiders of the Lost Fluff</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td><img src="img/com/raiderps1.jpg" alt="Raiders of the Lost Fluff" title="Raiders of the Lost Fluff border="0" width="300"></td> <td>Pet Yums Jr. x 3<br />
+Shotgun<br />Seeker Launcher<br />Shotgun Cake<br />Bomb Launcher<br />
+Tweek Telepoint<br />Roofus Telepoint</td> <td>If you've been to the <a href="compare.php">Comparisons</a> page or just own both versions of the game, you'll know what happened here. They removed this area in Viggo's Revenge, but all the items that were going to be there stayed there. Now, they float endlessly in this area, away from the players. Please note that the Bomb Launcher is just to the left of this image.</td></tr>
+<tr><td> <img src="img/thermal-ra.jpg" alt="Raiders of the Lost Fluff" title="Raiders of the Lost Fluff" border="0" width="300"></td> <td>2 x Thermal</td> <td>These thermals are placed just underneath this area. At least they're not leftovers this time.</td></tr>
+</table><br /><br />
+
+<h1>HMS Viggolina</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td> <img src="img/toofar.jpg" alt="H.M.S. Viggolina" title="H.M.S. Viggolina" border="0" width="300"></td> <td>Carrier Hood</td> <td>This is placed waaaaay too far under the level. It's likely this is used for cutscene purposes, but you can still stand on it (if you have the debug invincibility on, of course). I know, I said I wouldn't list these, but this was one of the first things listed here, so we'll keep it for now.</td></tr>
+</table><br /><br />
+
+
+<h1>The V-100</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td><img src="img/v-100.jpg" alt="The V-100" title="The V-100" border="0" width="300"></td> <td>Iron Plank</td> <td>This thing is randomly hanging out far away from the rest of the level. You can stand on it, too.</td></tr>
+<tr><td> <img src="img/chest.jpg" alt="The V-100" title="The V-100" border="0" width="300"></td> <td>Treasure Chest</td> <td>One of the strangest things out there. This treasure chest is hidden down the side of The V-100. It even has goodies in it! It's so strange that it gets more coverage on our <a href="beta.php">Unused Elements</a> page.</td></tr>
+<tr><td> <img src="img/oob-b11.jpg" alt="The V-100" title="The V-100"  border="0" width="300"></td> <td>Large Bullets </td> <td>These are kinda in the middle of nowhere in the Dreamcast version. </td></tr>
+<tr><td> <img src="img/bear-pipe.jpg" alt="The V-100" title="The V-100"  border="0" width="300"></td> <td>Brown Bear & Pipes </td> <td>Credit to Childemera for finding this! This Bear and a set of pipes are above the ceiling in one of the hallways.</td></tr>
+</table><br /><br />
+
+<h1>Secret Island</h1>
+<table class="itemtable" align="left">
+<tr><th>Image</th>
+<th>Item</th>
+<th>Description</th>
+<tr><td> <img src="img/toofar.jpg" alt="Secret Island" title="Secret Island" border="0" width="300"></td> <td>Pet Yums Jr.</td> <td>This can is placed mid-air just outside the vault entrance.</td></tr>
+</table><br /><br />
+
+
+
+&nbsp;<br /><br /><br />
+<center><a href="#ff"><img src="siteimg/up-arrow.png" alt="Return to top" title="Return to top" border="0">Back to top<img src="siteimg/up-arrow.png" alt="Return to top" title="Return to top" border="0"></a></center>
+<br /><br /><font size="1">Total Fur Fighters is &copy 2001-2018 Fur Fighter Master aka RadSpyro. Website design &copy Kari of xemnas.net. Fur Fighters belongs to Muffin Games.</font></div><div id="leftnav">
+<h3><img src=siteimg/games.png alt="Games" title="Games"></h3><br />
+<h3><a href="dc.php"><img src=siteimg/dreamcast.png alt="Fur Fighters Dreamcast" title="Fur Fighters Dreamcast"></a></h3><br />
+<h3><a href="pc.php"><img src=siteimg/pc.png alt="Fur Fighters PC" title="Fur Fighters PC"></a></h3><br />
+<h3><a href="viggosrevenge.php"><img src=siteimg/viggos-revenge.png alt="Fur Fighters: Viggo's Revenge" title="Fur Fighters: Viggo's Revenge"></a></h3><br />
+<h3><a href="viggoonglass.php"><img src=siteimg/viggo-on-glass.png alt="Fur Fighters: Viggo on Glass" title="Fur Fighters: Viggo on Glass"></a></h3><br />
+<h3><a href="v2.php"><img src=siteimg/furfighters-ii.png alt="Fur Fighters II" title="Fur Fighters II"></a></h3><br />
+<h3><a href="demos.php"><img src=siteimg/demos.png alt="Fur Fighters Demos" title="Fur Fighters Demos"></a></h3><br />
+<h3><a href="flash.php"><img src=siteimg/flash-games.png alt="Fur Fighters Flash Games" title="Fur Fighters Flash Games"></a></h3><br />
+<h3><a href="prototype.php"><img src=siteimg/prototypes.png alt="Fur Fighters Prototypes" title="Fur Fighters Prototypes"></a></h3><br />
+<h3><a href="animalavengers.php"><img src=siteimg/animal-avengers.png alt="Animal Avengers" title="Animal Avengers"></a></h3><br />
+
+<br /><br />
+<h3><img src=siteimg/guides.png alt="Guides" title="guides"></h3><br />
+<h3><a href="furfighters.php"><img src=siteimg/the-furfighters.png alt="" title=""></a></h3><br />
+<h3><a href="hub.php"><img src=siteimg/dreamcast.png alt="Dreamcast Guide" title="Dreamcast Guide"></a></h3><br />
+<h3><a href="weapons.php"><img src=siteimg/weapons.png alt="" title=""></a></h3><br />
+<h3><a href="enemies.php"><img src=siteimg/enemies.png alt="" title=""></a></h3><br />
+<h3><a href="miniboss.php"><img src=siteimg/mini-bosses.png alt="" title=""></a></h3><br />
+<h3><a href="boss.php"><img src=siteimg/bosses.png alt="" title=""></a></h3><br />
+<h3><a href="gwynth.php"><img src=siteimg/saving-gwynth.png alt="" title=""></a></h3><br />
+<h3><a href="juanita.php"><img src=siteimg/saving-juanita.png alt="" title=""></a></h3><br />
+<h3><a href="claude.php"><img src=siteimg/saving-claude.png alt="" title=""></a></h3><br />
+<h3><a href="esmerelda.php"><img src=siteimg/saving-esmerelda.png alt="" title=""></a></h3><br />
+<h3><a href="winniemai.php"><img src=siteimg/saving-winnie-and-mai.png alt="" title=""></a></h3><br />
+<h3><a href="viggo.php"><img src=siteimg/the-generals-lair.png alt="" title=""></a></h3><br />
+
+<br /><br />
+<h3><img src=siteimg/cheats.png alt="Cheats" title="Cheats"></h3><br />
+<h3><a href="dc-c.php"><img src=siteimg/dreamcast.png alt="" title=""></a></h3><br />
+<h3><a href="pc-c.php"><img src=siteimg/pc.png alt="" title=""></a></h3><br />
+<h3><a href="ps2-c.php"><img src=siteimg/viggos-revenge.png alt="" title=""></a></h3><br />
+<h3><a href="ios-c.php"><img src=siteimg/viggo-on-glass.png alt="" title=""></a></h3><br />
+
+</div>
+
+<div id="rightnav">
+
+<h3><img src=siteimg/indepth.png alt="In-Depth" title="In-Depth"></h3><br />
+<h3><a href="beta.php"><img src=siteimg/unused-content.png alt="" title=""></a></h3><br />
+<h3><a href="mod.php"><img src=siteimg/unused-models.png alt="" title=""></a></h3><br />
+<h3><a href="oob.php"><img src=siteimg/out-of-bounds.png alt="" title=""></a></h3><br />
+<h3><a href="regional.php"><img src=siteimg/regional-differences.png alt="" title=""></a></h3><br />
+<h3><a href="compare.php"><img src=siteimg/comparisons.png alt="" title=""></a></h3><br />
+<h3><a href="easter.php"><img src=siteimg/easter-eggs.png alt="" title=""></a></h3><br />
+<h3><a href="trivia.php"><img src=siteimg/gameplay-trivia.png alt="" title=""></a></h3><br />
+<h3><a href="glitch.php"><img src=siteimg/glitches.png alt="" title=""></a></h3><br />
+<h3><a href="test.php"><img src=siteimg/test-levels.png alt="" title=""></a></h3><br />
+<h3><a href="debug.php"><img src=siteimg/debug-menu.png alt="" title=""></a></h3><br />
+<h3><a href="speedrunning.php"><img src=siteimg/speedrunning-tips.png alt="" title=""></a></h3><br />
+
+<br /><br />
+<h3><img src=siteimg/media.png alt="Media" title="Media"></h3><br />
+<h3><a href="ff2.php"><img src=siteimg/fur-fighters-2.png alt="Fur Fighters 2: The Final Fluff" title="Fur Fighters 2: The Final Fluff"></a></h3><br />
+<h3><a href="boxart.php"><img src=siteimg/boxart.png alt="Merchandise" title="Merchandise"></a></h3><br />
+<h3><a href="merch.php"><img src=siteimg/merchandise.png alt="" title=""></a></h3><br />
+<h3><a href="voices.php"><img src=siteimg/voice-clips.png alt="Voice Clips" title="Voice Clips"></a></h3><br />
+<h3><a href="mags.php"><img src=siteimg/magazine-scans.png alt="Magazine Scans" title="Magazine Scans"></a></h3><br />
+<h3><a href="animated.php"><img src=siteimg/animated-images.png alt="Animated Images" title="Animated Images"></a></h3><br />
+<h3><a href="memory.php"><img src=siteimg/memory-lane.png alt="A Trip Down Memory Lane..." title="A Trip Down Memory Lane..."></a></h3><br />
+<br /><br />
+<h3><img src=siteimg/fun.png alt="Fun" title="Fun"></h3><br />
+<h3><a href="fanart.php"><img src=siteimg/fanart.png alt="Fanart" title="Fanart"></a></h3><br />
+<h3><a href="contest.php"><img src=siteimg/caption-contest.png alt="Caption Contest" title="Caption Contest"></a></h3><br />
+<h3><a href="fffc.php"><img src=siteimg/fanatics-club.png alt="Fur Fighters Fanatics Club" title="Fur Fighters Fanatics Club"></a></h3><br />
+<h3><a href="never.php"><img src=siteimg/never-hear.png alt="Things You'll Never Hear in Fur Fighters" title="Things You'll Never Hear in Fur Fighters"></a></h3><br />
+
+<br /><br />
+<h3><a href="exit.php"><img src=siteimg/exit.png alt="Exit" title="Exit"></a></h3><br />
+
+</div></body></html> 
